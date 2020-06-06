@@ -3,6 +3,7 @@ This repository contains Colab notebooks from Algorithms for Massive Data course
 It contains both notebooks from laboratories and final project about ocular disease recognition. 
 
 Files description: 
+
 CIFAR_CNN_CLASSIFICATION.ipynb, FOREST_COVER_PREDICTION.ipynb, MPG_PREDICTION.ipynb are notebooks from laboratories. This code was 
 patrially reused for the puroposes of the final project.
 
@@ -12,4 +13,4 @@ OCULAR_DISEASE_AUGMENTATION.ipynb - oversampling minority classes, by augmenting
 
 OCULAR_DISEASE_RECOGNITION.ipynb - training final model.
 
-Other files several other experiments ( moslty training on smaller dataset), all details on that are provided in the final report. 
+Other files contain several other experiments ( moslty training on smaller dataset), all details on that are provided in the final report. 
