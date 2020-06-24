@@ -6,7 +6,7 @@ This repository contains Colab notebooks from Algorithms for Massive Data course
 **Preprocessing Folder description**\
 OCULAR_DISEASE_PREPROCESSING.ipynb - it is the first notebook that should be run. Firstly it downloads dataset from Kaggle. In order to successfully download the dataset via API, the kaggle.json file must be attached to the notebook files.  Notebook contains code for data preprocessing, resizing and creating validation set. All those operations are done once and then saved as a zip file in Google Drive. 
 
-OCULAR_DISEASE_AUGMENTATION.ipynb - downloads preprocessed images from google drive and augments them by applying random zoom/rotations/brightness on minority classes. After applying augmentations it again saves the file to Google Drive. \
+OCULAR_DISEASE_AUGMENTATION.ipynb - downloads preprocessed images from google drive and augments them by applying random zoom/rotations/brightness on minority classes. After applying augmentations it again saves the file to Google Drive.\
 
 
 **Training Folder description** - contains several experiments, each notebook trains the model  on a  different slice of the dataset.
