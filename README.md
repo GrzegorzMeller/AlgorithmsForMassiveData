@@ -9,7 +9,7 @@ OCULAR_DISEASE_PREPROCESSING.ipynb - it is the first notebook that should be run
 OCULAR_DISEASE_AUGMENTATION.ipynb - downloads preprocessed images from google drive and augments them by applying random zoom/rotations/brightness on minority classes. After applying augmentations it again saves the file to Google Drive.
 
 
-**Training Folder description** - contains several experiments, each notebook trains the model  on a  different slice of the dataset.
+**Training Folder description** - contains several experiments, each notebook trains the model  on a  different slice of the dataset\
 OCULAR_DISEASE_RECOGNITION_N_C.ipynb - training the model to detect between normal fundus and cataract.
 
 OCULAR_DISEASE_RECOGNITION_N_C_M.ipynb - training the model to detect between normal fundus, cataract, and myopia.
